@@ -1,0 +1,4 @@
+data/ (Dataset Storage)
+Create an empty folder to store datasets (e.g., uploaded CSVs or generated results). Example structure:
+
+data/
