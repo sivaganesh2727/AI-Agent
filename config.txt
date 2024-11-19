@@ -1,0 +1,6 @@
+config/credentials.json (Google Service Account File)
+
+Place the provided JSON file here without modifications.
+
+config/
+└── credentials.json
