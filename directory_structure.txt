@@ -1,0 +1,8 @@
+AI-Agent/
+├── app.py               # Main application script
+├── config/
+│   └── credentials.json # Google service account file
+├── data/                # Dataset storage
+├── src/                 # Source code
+├── README.md            # Project documentation
+└── requirements.txt     # Python dependencies
